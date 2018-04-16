@@ -1,16 +1,6 @@
-{ "data": [{"Name":"IncrementalFAI","Value":"1239000"},
-	{"Name":"IncrementalTBE","Value":"2305000","ProjectIndicators":
-	[{"Name":"IncrementalFAI","Value":"1239000"},
-	{"Name":"IncrementalTBE","Value":"2305000"},
+{ "data": [	{"Name":"IncrementalTBE","Value":"2305000"},
 	{"Name":"IncrementalVA","Value":"90225"},
 	{"Name":"IncrementalRSE","Value":"53"},
 	{"Name":"IncrementalEmployee","Value":"32"},
-	{"Name":"IncrementalEmployeeMoreThan4K","Value":"29"}]},
-	{"Name":"IncrementalVA","Value":"90225","ProjectIndicators":
-	[{"Name":"IncrementalFAI","Value":"1239000"},
-	{"Name":"IncrementalTBE","Value":"2305000"},
-	{"Name":"IncrementalVA","Value":"90225"},
-	{"Name":"IncrementalRSE","Value":"53"},
-	{"Name":"IncrementalEmployee","Value":"32"},
-	{"Name":"IncrementalEmployeeMoreThan4K","Value":"29"}]}
+	{"Name":"IncrementalEmployeeMoreThan4K","Value":"29"}
 	]}
