@@ -1,5 +1,20 @@
 { "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", 
+    "ProjectIndicators":
+	[{"Name":"IncrementalFAI","Value":"1239000"},
+	{"Name":"IncrementalTBE","Value":"2305000"},
+	{"Name":"IncrementalVA","Value":"90225"},
+	{"Name":"IncrementalRSE","Value":"53"},
+	{"Name":"IncrementalEmployee","Value":"32"},
+	{"Name":"IncrementalEmployeeMoreThan4K","Value":"29"}],
+    
+    },
+    { "id": 3, "title": "Post 3", 
+     "ProjectIndicators":
+	[{"Name":"IncrementalFAI","Value":"1239000"},
+	{"Name":"IncrementalTBE","Value":"2305000"},
+	{"Name":"IncrementalVA","Value":"90225"},
+	{"Name":"IncrementalRSE","Value":"53"},
+	{"Name":"IncrementalEmployee","Value":"32"},
+	{"Name":"IncrementalEmployeeMoreThan4K","Value":"29"}], }
   ]}
