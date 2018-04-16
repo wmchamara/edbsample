@@ -1,4 +1,4 @@
-"[{"Id":324,
+{ data: "[{"Id":324,
 "ProjectCode":"PRJ-160812-001",
 "Incentives":[{"ApplicationNumber":"S16-12345-DEI","Status":"Approved","SubStatus":"","Family":"Tax","Scheme":"DEI","QualifyingPeriodStartDate":"2016-05-25T00:00:00","QualifyingPeriodEndDate":"2021-05-24T00:00:00","ApprovedDate":"2016-03-14T09:30:29","ConditionEarliestDueDate":"2017-05-24T00:00:00","ProjectCode":"PRJ-160812-001","CreatedBy":1523,"CreatedOn":"2016-03-14T09:30:29","UpdatedBy":1523,"UpdatedOn":"2016-03-14T09:30:29"},{"ApplicationNumber":"S15-10390-FTC","Status":"Accepted","SubStatus":"","Family":"Tax","Scheme":"FTC","QualifyingPeriodStartDate":"2015-08-01T00:00:00","QualifyingPeriodEndDate":"2020-07-31T00:00:00","ApprovedDate":"2015-01-09T13:15:50","ConditionEarliestDueDate":"2016-07-31T00:00:00","ProjectCode":"PRJ-160812-001","CreatedBy":1723,"CreatedOn":"2015-01-09T13:15:50","UpdatedBy":1852,"UpdatedOn":"2015-11-17T16:23:15"}],
 "ProjectIndicators":
@@ -33,4 +33,4 @@
 	{"Name":"IncrementalEmployee","Value":"45"},
 	{"Name":"IncrementalEmployeeMoreThan4K","Value":"50"}],
 "UploadedDateTime":"2017-09-22T09:45:17"}
-]"
+]" }
